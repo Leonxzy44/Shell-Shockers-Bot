@@ -1,0 +1,18 @@
+JS Shell Shockers guide:
+
+1. Open Shell shockers on Google Chrome or Microsoft edge.
+
+2. Join the server of the game.
+
+3. Use Developer's tools by pressing F12 on PC or Laptop.
+
+4. Create new file. 
+
+5. Copy & Paste code from repository.
+
+6. Hit Enter.
+
+7. Make sure you code is opened while you bot is in game.
+
+8. Enjoy! 
+
