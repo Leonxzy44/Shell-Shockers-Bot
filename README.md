@@ -31,3 +31,7 @@ Enjoy!
 > ⚠️ **Disclaimer:**  
 > These mods may change game behavior and could cause bugs or crashes.  
 > Use at your own risk.
+
+# 🛟 Support / report bugs
+
+DM me on discord: 'hodzax' or [mail](mailto:leon.hodzic@outlook.com)
