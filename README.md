@@ -27,3 +27,7 @@ JS Shell Shockers guide:
 Make sure you code is opened while you bot is in game.
 
 Enjoy!
+
+> ⚠️ **Disclaimer:**  
+> These mods may change game behavior and could cause bugs or crashes.  
+> Use at your own risk.
