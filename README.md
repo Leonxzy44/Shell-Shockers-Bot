@@ -34,4 +34,6 @@ Enjoy!
 
 # 🛟 Support / report bugs
 
-DM me on discord: ```hodzax``` or [mail](mailto:leon.hodzic@outlook.com)
+DM me on discord: ```hodzax``` or [mail](mailto:leon.hodzic@outlook.com) me.ć
+
+
