@@ -22,8 +22,8 @@ A self-made Shell Shocker bot that has abilities to **track players**, **move** 
 
 5. Copy & Paste code from repository.
 
-6. Hit Enter.
+6. Hit Enter.**
 
 Make sure you code is opened while you bot is in game.
 
-Enjoy!**
+Enjoy!
