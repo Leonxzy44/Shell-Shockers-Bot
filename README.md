@@ -10,7 +10,7 @@ A self-made Shell Shocker bot that has abilities to **track players**, **move** 
 
 # 📜 How to setup the bot
 
-** JS Shell Shockers guide:
+JS Shell Shockers guide:
 
 1. Open Shell shockers on Google Chrome or Microsoft edge.
 
@@ -22,7 +22,7 @@ A self-made Shell Shocker bot that has abilities to **track players**, **move** 
 
 5. Copy & Paste code from repository.
 
-6. Hit Enter. **
+6. Hit Enter.
 
 Make sure you code is opened while you bot is in game.
 
