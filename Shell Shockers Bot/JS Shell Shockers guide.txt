@@ -1,3 +1,9 @@
+## Shell Shockers bot guide
+
+
+
+
+
 JS Shell Shockers guide:
 
 1. Open Shell shockers on Google Chrome or Microsoft edge.
@@ -15,4 +21,5 @@ JS Shell Shockers guide:
 7. Make sure you code is opened while you bot is in game.
 
 8. Enjoy! 
+
 
