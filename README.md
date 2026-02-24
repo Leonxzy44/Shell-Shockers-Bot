@@ -1,2 +1,1 @@
-# Shell-Shockers-Bot
-Bot for Shell Shockers.
+## Shell Shockers Bot
